@@ -3,13 +3,13 @@ Iterates through given React component tree to gather some data
 
 ## Install
 Via npm:
-```
+```bash
 npm install --save react-map-children
 ```
 
 ## Usage
 
-```
+```javascript
 import React from 'react';
 import mapRecursive from 'react-map-children';
 
