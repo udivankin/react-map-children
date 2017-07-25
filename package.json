@@ -1,6 +1,6 @@
 {
   "name": "react-map-children",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Map React component's children recursively",
   "main": "dist/index.js",
   "directories": {
