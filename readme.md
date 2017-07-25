@@ -1,4 +1,4 @@
-# Pico-Ajax
+# React-map-children
 Iterates through given React component tree to gather some data
 
 ## Install
